@@ -31,8 +31,8 @@
 
 
 ## Демонстрация
-![GIF1](https://github.com/Sh4565/Xlams/blob/main/KillQuip/1.gif?raw=true)
-![GIF2](https://github.com/Sh4565/Xlams/blob/main/KillQuip/2.gif?raw=true)
+![GIF1](https://github.com/Sh4565/Xlams/blob/main/GIFs/KillQuip/1.gif?raw=true)
+![GIF2](https://github.com/Sh4565/Xlams/blob/main/GIFs/KillQuip/2.gif?raw=true)
 
 
 ## Как это работает?
@@ -43,7 +43,7 @@
 Поэтому я использовал библиотеку OpenCV2, чтобы находить информацию об убийствах 
 в правом верхнем углу экрана.
 
-![GIF3](https://github.com/Sh4565/Xlams/blob/main/KillQuip/3.gif?raw=true)
+![GIF3](https://github.com/Sh4565/Xlams/blob/main/GIFs/KillQuip/3.gif?raw=true)
 
 Скрипт в выделенной области ищет сообщения в красной рамке, которые появляются тогда, когда игрок совершает убийство (или помогает в убийстве).
 
@@ -140,7 +140,7 @@ python.exe .\KillQuip.py -sa
 Для этого я использую программу Snip & Sketch (установленную по умолчанию), 
 с помощью которой создаются скриншоты области.
 
-![GIF4](https://github.com/Sh4565/Xlams/blob/main/KillQuip/4.gif?raw=true)
+![GIF4](https://github.com/Sh4565/Xlams/blob/main/GIFs/KillQuip/4.gif?raw=true)
 
 
 ### - Установить путь к корневой директории игры.
